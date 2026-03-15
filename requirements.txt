@@ -1,0 +1,5 @@
+matplotlib==3.10.8
+numpy==2.4.3
+pandas==3.0.1
+phik==0.12.5
+scikit-learn==1.8.0
